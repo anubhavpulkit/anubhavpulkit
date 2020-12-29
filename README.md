@@ -2,9 +2,13 @@
   Hey there 👋 I'm Anubhav Singh
 </h1>
  
+ I'm an Indian Undergraduate Student currently undertaking a Bachelors in Computer Science and Engineering from Shri Mata Vaishno Devi University, Jammu. I'm passionate about iOS Development learning, and Web Development with an active interest in making content blogs.I'm a student of Google Summer of Code with Amahi organisation and Alibaba Summer of Code with OAM organisation both in 2020. 
+
+ 
 - 🌱  I’m happy to help you in **Open Source development**
 - 👯  I’m looking to collaborate on **iOS Apps**
 - 💬  Ask me about **iOS Development**
+
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhavsingh16&layout=compact&hide=html&theme=light" alt="anubhavsingh16" />
 
