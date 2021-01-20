@@ -1,17 +1,41 @@
-<h1 align='center'>
-  Hey there 👋 I'm Anubhav Singh
-</h1>
- 
- I'm an Indian Undergraduate Student currently undertaking a Bachelors in Computer Science and Engineering from Shri Mata Vaishno Devi University, Jammu. I'm passionate about iOS Development learning, and Web Development with an active interest in making content blogs.I'm a student of  Alibaba Summer of Code with OAM organisation in 2020. 
 
- 
-- 🌱  I’m happy to help you in **Open Source development**
-- 👯  I’m looking to collaborate on **iOS Apps**
-- 💬  Ask me about **iOS Development**
+<h2 align='center'>
+  Hey there 👋 I'm Anubhav Singh a passionate self-taught iOS app Developer 🚀 from India.
+</h2>
+
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently working on something cool :wink:;
+- 🌱 I’m currently learning SwiftUI; 
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: [@anubhavsinghpulkit](https://twitter.com/anubhavsinghpulkit);
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhavsingh16&layout=compact&hide=html&theme=light" alt="anubhavsingh16" />
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/anubhavpulkit)
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@anubhavssingh177)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anubhav-singh-27512a167/)
+[<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/12206321/anubhav-singh)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](@anubhavssingh177@gmail.com)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=anubhavsingh16&show_icons=true&theme=light" alt="anubhavsingh16"/>
+<!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.0%20million%20lines%20of%20code-blue)
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/anubhavpulkit) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@anubhavssingh177) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anubhav-singh-27512a167/) 
+
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday           █████░░░░░░░░░░░░░░░░░░░░   21.43% 
+Tuesday          ████░░░░░░░░░░░░░░░░░░░░░   17.59% 
+Wednesday        ████░░░░░░░░░░░░░░░░░░░░░   18.25% 
+Thursday         ██░░░░░░░░░░░░░░░░░░░░░░░   9.66% 
+Friday           ███░░░░░░░░░░░░░░░░░░░░░░   12.48% 
+Saturday         ███░░░░░░░░░░░░░░░░░░░░░░   11.64% 
+Sunday           ██░░░░░░░░░░░░░░░░░░░░░░░   8.94%
+
+```
+
+
+
+<!--END_SECTION:waka-->
