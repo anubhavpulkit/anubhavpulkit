@@ -10,8 +10,6 @@
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning SwiftUI; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@anubhavsinghpulkit](https://twitter.com/anubhavsinghpulkit);
-
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/anubhavpulkit)
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@anubhavssingh177)
