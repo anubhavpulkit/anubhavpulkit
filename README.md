@@ -21,7 +21,7 @@
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.0%20million%20lines%20of%20code-blue)
 
 
-📅 **I'm Most Productive on Monday** 
+**I'm Most Productive on Monday** 
 
 ```text
 Monday           █████░░░░   70.43% 
