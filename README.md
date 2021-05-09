@@ -7,9 +7,11 @@
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool.
-- 🌱 I’m currently learning SwiftUI. 
-- 💬 Ask me about anything, I am happy to help.
+- 📍 Imagination
+- 📱 Vlc-iOS is my new love
+- 💻 I’m currently working on something cool
+- 🌱 I’m currently learning SwiftUI 
+- 💬 Ask me about anything, I am happy to help
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/anubhavpulkit)
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@anubhavssingh177)
@@ -19,20 +21,6 @@
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.0%20million%20lines%20of%20code-blue)
-
-
-**I'm Most Productive on Monday** 
-
-```text
-Monday           █████░░░░   70.43% 
-Tuesday          ████░░░░░   67.59% 
-Wednesday        ████░░░░░   58.25% 
-Thursday         ██░░░░░░░   37.66% 
-Friday           ███░░░░░░   42.48% 
-Saturday         ███░░░░░░   45.64% 
-Sunday           ██░░░░░░░   38.94%
-
-```
 
 
 
