@@ -8,8 +8,8 @@
   I am Anubhav Singh, a passionate iOS app developer. I'm a Google Summer of Code 2020 and 2021 student with Amahi and VideoLAN. Active in the open source world.
   
 **Talking about Personal Stuffs:**
-- 📍 Experiencing
-- 📱 Vlc-iOS is my new love
+- 📍 Open to work
+- 📱 iOS development
 - 🌱 I’m currently learning SwiftUI 
 - 💬 Ask me about anything, I am happy to help
 
