@@ -8,9 +8,9 @@
   I am Anubhav Singh, a passionate iOS app developer. I'm a Google Summer of Code 2020 and 2021 student with Amahi and VideoLAN. Active in the open source world.
   
 **Talking about Personal Stuffs:**
-- 📍 Open to work
+- 📍 Remote 
 - 📱 iOS development
-- 🌱 I’m currently learning SwiftUI 
+- 🌱 I’m currently learning CoreData 
 - 💬 Ask me about anything, I am happy to help
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/anubhavpulkit)
